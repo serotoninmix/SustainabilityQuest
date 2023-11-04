@@ -1,6 +1,5 @@
 import React from 'react';
-import { WagmiConfig } from '@wagmi/core';
-import { configureChains, chain } from 'wagmi';
+import { WagmiConfig, configureChains, chain,createConfig, mainnet } from 'wagmi';
 import { publicProvider } from 'wagmi/providers/public';
 import SurveyComponent from './SurveyComponent';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -11,16 +10,21 @@ import NotFound from './views/not-found';
 
 import { InjectedConnector } from 'wagmi/connectors/injected';
 
-const wagmiClient = createClient({
+const { publicClient, webSocketPublicClient } = configureChains(
+  [mainnet],
+  [publicProvider()],
+)
+
+const wagmiClient = createConfig({
   autoConnect: true,
-  provider,
-  webSocketProvider,
+  publicClient,
+  webSocketPublicClient,
 });
 
-function App({ wagmiClient }) {
+function App() {
   return (
     <React.StrictMode>
-      <WagmiConfig client={wagmiClient}>
+      <WagmiConfig config={wagmiClient}>
         <Router>
           <Switch>
             <Route path="/" exact component={MacBookAir1} />

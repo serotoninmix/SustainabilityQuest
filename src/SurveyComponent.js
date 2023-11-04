@@ -1,11 +1,11 @@
 // src/SurveyComponent.js
-import React, { useState } from 'react';
-import { useContract, useSigner, useAccount } from 'wagmi';
+import React, { useState,useEffect } from 'react';
+import { useContract, useWalletClient, useAccount } from 'wagmi';
 import Web3 from 'web3';
 import SurveyContract from './contracts/SustainabilityQSurvey.sol'; 
 
 const SurveyComponent = () => {
-  const { data: signer } = useSigner();
+  const { data: signer } = useWalletClient();
   const { data: accountData } = useAccount();
     const [statusMessage, setStatusMessage] = useState('');
 
