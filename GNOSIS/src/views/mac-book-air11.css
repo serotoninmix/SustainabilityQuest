@@ -1,0 +1,1727 @@
+.mac-book-air11-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mac-book-air11-mac-book-air1 {
+  width: 100%;
+  height: 832px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(219, 236, 220, 0.75);
+}
+.mac-book-air11-rectangle1 {
+  top: 427px;
+  left: 355px;
+  width: 582px;
+  height: 102px;
+  position: absolute;
+  border-radius: 112px;
+}
+.mac-book-air11-rectangle2 {
+  top: 297px;
+  left: 362px;
+  width: 582px;
+  height: 102px;
+  position: absolute;
+  border-radius: 112px;
+}
+.mac-book-air11-text {
+  top: 333px;
+  left: 483px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air11-rectangle3 {
+  top: 138px;
+  left: 170px;
+  width: 925px;
+  height: 123px;
+  position: absolute;
+  border-radius: 112px;
+}
+.mac-book-air11-text2 {
+  top: 171px;
+  left: 318px;
+  color: rgba(0, 0, 0, 1);
+  width: 636px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air11-text4 {
+  top: 15px;
+  left: 285px;
+  color: rgba(0, 0, 0, 1);
+  width: 700px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mac-book-air11-tree081 {
+  top: 579px;
+  left: 0px;
+  width: 855.0947875976562px;
+  height: 715.6312255859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group79 {
+  top: 0px;
+  left: 0px;
+  width: 235.6136016845703px;
+  height: 238.83058166503906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group3 {
+  top: 75.99577331542969px;
+  left: -0.00001142234577855561px;
+  width: 126.91177368164062px;
+  height: 101.99434661865234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle44 {
+  top: 0.9468472003936768px;
+  left: 16.771554946899414px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle45 {
+  top: 9.367490768432617px;
+  left: 92.55711364746094px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle46 {
+  top: 23.455705642700195px;
+  left: 29.46451759338379px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle47 {
+  top: 82.97501373291016px;
+  left: 15.15505599975586px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle48 {
+  top: 91.02178192138672px;
+  left: 108.87335205078125px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group4 {
+  top: 128.7425079345703px;
+  left: 187.61634826660156px;
+  width: 126.91187286376953px;
+  height: 101.99443817138672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4401 {
+  top: 14.07722345131208px;
+  left: -9.166149328934893px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4501 {
+  top: 75.6268433170037px;
+  left: -54.17737222712111px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4601 {
+  top: 13.888461797139144px;
+  left: -35.00636898253407px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4701 {
+  top: -28.13782736396638px;
+  left: -79.51599667899248px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4801 {
+  top: 49.153387191378215px;
+  left: -133.12533414070572px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group5 {
+  top: 92.74464416503906px;
+  left: 235.61361694335938px;
+  width: 126.91181182861328px;
+  height: 101.99444580078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4402 {
+  top: 14.077137899250602px;
+  left: -9.16607613943549px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4502 {
+  top: 75.62679861379706px;
+  left: -54.17722015341076px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4602 {
+  top: 13.888376274733673px;
+  left: -35.00629574133137px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4702 {
+  top: -28.137791399010666px;
+  left: -79.51592055925869px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4802 {
+  top: 49.15330592697819px;
+  left: -133.12526114298475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group6 {
+  top: 47.500370025634766px;
+  left: 209.91458129882812px;
+  width: 118.7925033569336px;
+  height: 95.46925354003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4403 {
+  top: 13.176576869358655px;
+  left: -8.579687064074164px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4503 {
+  top: 70.78857707989414px;
+  left: -50.71126871367085px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4603 {
+  top: 12.99989645327878px;
+  left: -32.766804920318236px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4703 {
+  top: -26.3376904342922px;
+  left: -74.42895521656328px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4803 {
+  top: 46.00871439400612px;
+  left: -124.60857726428799px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-subtract {
+  top: 105.51029968261719px;
+  left: 0.09458741545677185px;
+  width: 220px;
+  height: 121px;
+  position: absolute;
+}
+.mac-book-air11-group72 {
+  top: 146.62905883789062px;
+  left: 83.54106903076172px;
+  width: 63.29438781738281px;
+  height: 128.3262176513672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group55 {
+  top: 19.349912643432617px;
+  left: 15.721856117248535px;
+  width: 36.997955322265625px;
+  height: 108.97624969482422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle248 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 109px;
+  position: absolute;
+}
+.mac-book-air11-rectangle291 {
+  top: -0.0000019967492335126735px;
+  left: 5.442200183868408px;
+  width: 26px;
+  height: 59px;
+  position: absolute;
+}
+.mac-book-air11-vector1-stroke {
+  top: 15.999061584472656px;
+  left: -0.000011405174518586136px;
+  width: 29px;
+  height: 50px;
+  position: absolute;
+}
+.mac-book-air11-vector2-stroke {
+  top: -0.000026926527425530367px;
+  left: 63.294376373291016px;
+  width: 29px;
+  height: 50px;
+  position: absolute;
+}
+.mac-book-air11-group80 {
+  top: 117.68617248535156px;
+  left: 167.9973907470703px;
+  width: 90.94007873535156px;
+  height: 73.08521270751953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4404 {
+  top: 10.087192784558738px;
+  left: -6.5680291081765745px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  border-radius: 260.2682189941406px;
+}
+.mac-book-air11-rectangle4504 {
+  top: 54.19128621291259px;
+  left: -38.82124141543312px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4604 {
+  top: 9.951870783368804px;
+  left: -25.084128673211467px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4704 {
+  top: -20.162489663413226px;
+  left: -56.97804082579472px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4804 {
+  top: 35.221368901997266px;
+  left: -95.39245642744709px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-group7 {
+  top: 8.760560035705566px;
+  left: 27.450132369995117px;
+  width: 118.79242706298828px;
+  height: 95.46916961669922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4405 {
+  top: 3.1873642600173753px;
+  left: 15.397187059966214px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4505 {
+  top: 21.425133230135202px;
+  left: 84.4014925886234px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4605 {
+  top: 25.77549164356583px;
+  left: 24.047436066254477px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4705 {
+  top: 78.90862948728227px;
+  left: 2.5988506094575428px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4805 {
+  top: 99.2709473288362px;
+  left: 88.25715081768726px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-tree082 {
+  top: 559px;
+  left: 732px;
+  width: 123.09477996826172px;
+  height: 156.6312255859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group92 {
+  top: 0px;
+  left: 0px;
+  width: 123.09477996826172px;
+  height: 123.88756561279297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group8 {
+  top: 34.507896423339844px;
+  left: 0.000010861613191082142px;
+  width: 69.66162109375px;
+  height: 55.984493255615234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4406 {
+  top: 0.5196699500083923px;
+  left: 9.20588493347168px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4506 {
+  top: 5.1417927742004395px;
+  left: 50.80443572998047px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4606 {
+  top: 12.87472152709961px;
+  left: 16.17306137084961px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4706 {
+  top: 45.54478073120117px;
+  left: 8.318588256835938px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4806 {
+  top: 49.961631774902344px;
+  left: 59.76036834716797px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group9 {
+  top: 63.46046447753906px;
+  left: 102.98222351074219px;
+  width: 69.66162109375px;
+  height: 55.984493255615234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4407 {
+  top: 7.726935537723875px;
+  left: -5.031280027853882px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4507 {
+  top: 41.51142015686037px;
+  left: -29.737811079213543px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4607 {
+  top: 7.623306866810481px;
+  left: -19.21491068428145px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4707 {
+  top: -15.444780817721949px;
+  left: -43.64617542160806px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4807 {
+  top: 26.98014978397123px;
+  left: -73.0722653543778px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group10 {
+  top: 58.7470703125px;
+  left: 123.09478759765625px;
+  width: 60.455745697021484px;
+  height: 55.984554290771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4408 {
+  top: -0.25862136433443084px;
+  left: -0.45089944574397123px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4508 {
+  top: 33.52586237320838px;
+  left: -25.15740401774667px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4608 {
+  top: -0.3622494214762355px;
+  left: -14.634529767084587px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4808 {
+  top: 18.994592000319244px;
+  left: -68.49185829291093px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group11 {
+  top: 26.620187759399414px;
+  left: 111.86917114257812px;
+  width: 65.2049789428711px;
+  height: 53.5029411315918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4409 {
+  top: 7.562147735067356px;
+  left: -6.166573991380119px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4509 {
+  top: 38.855690296100875px;
+  left: -27.835230510881274px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4609 {
+  top: 7.135620765765452px;
+  left: -17.985648622498502px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4708 {
+  top: -14.456690958957097px;
+  left: -40.853863636635765px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4809 {
+  top: 25.25408293407213px;
+  left: -68.39736295279272px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-group12 {
+  top: 15.736995697021484px;
+  left: 17.751089096069336px;
+  width: 65.20497131347656px;
+  height: 52.40284729003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4410 {
+  top: 1.7495307583594695px;
+  left: 8.451411043645749px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4510 {
+  top: 11.760165339563173px;
+  left: 46.3278117163984px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4610 {
+  top: 14.148113890184959px;
+  left: 13.199602856067258px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4709 {
+  top: 43.312776315378414px;
+  left: 1.426467732027163px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4810 {
+  top: 54.48962879735291px;
+  left: 48.44422599250322px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-group19 {
+  top: 43.24379348754883px;
+  left: 103.70963287353516px;
+  width: 65.20497131347656px;
+  height: 52.40284729003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4411 {
+  top: 7.232611873019323px;
+  left: -4.709311178558437px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4511 {
+  top: 38.85566788216465px;
+  left: -27.83519291781556px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4611 {
+  top: 7.135572444807622px;
+  left: -17.985612111171463px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4710 {
+  top: -14.456711420268675px;
+  left: -40.853825514435925px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4811 {
+  top: 25.254059333893565px;
+  left: -68.39732742785918px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-subtract1 {
+  top: 56.04384231567383px;
+  left: 0.15227773785591125px;
+  width: 119px;
+  height: 61px;
+  position: absolute;
+}
+.mac-book-air11-group81 {
+  top: 76.85502624511719px;
+  left: 47.844505310058594px;
+  width: 29.574291229248047px;
+  height: 79.77619934082031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group551 {
+  top: 12.029226303100586px;
+  left: 0.000005270044766803039px;
+  width: 23.00041389465332px;
+  height: 67.74696350097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle2481 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 68px;
+  position: absolute;
+}
+.mac-book-air11-rectangle2911 {
+  top: -0.000009570237125444692px;
+  left: 3.3832197189331055px;
+  width: 16px;
+  height: 36px;
+  position: absolute;
+}
+.mac-book-air11-vector2-stroke1 {
+  top: -0.000015781322872499004px;
+  left: 29.57428741455078px;
+  width: 18px;
+  height: 31px;
+  position: absolute;
+}
+.mac-book-air11-group82 {
+  top: 70.40249633789062px;
+  left: 20.963396072387695px;
+  width: 60.488407135009766px;
+  height: 48.61231994628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4412 {
+  top: -4.519418395243974px;
+  left: 6.608840756565769px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 186.8699951171875px;
+}
+.mac-book-air11-rectangle4512 {
+  top: -23.376773145892912px;
+  left: 37.67673378276356px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4612 {
+  top: 0.2898224916380059px;
+  left: 17.947350673138203px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4711 {
+  top: 26.927395563240452px;
+  left: 29.85097372279529px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4812 {
+  top: 2.7141860677520526px;
+  left: 67.5821463987977px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-group95 {
+  top: 17.022876739501953px;
+  left: 23.126569747924805px;
+  width: 47.606754302978516px;
+  height: 38.259803771972656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4413 {
+  top: 1.2773463621174415px;
+  left: 6.170560615131421px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 157.1262969970703px;
+}
+.mac-book-air11-rectangle4513 {
+  top: 8.586209454059826px;
+  left: 33.82435916415841px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4613 {
+  top: 10.329657110018161px;
+  left: 9.637186151480705px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4712 {
+  top: 31.62307104990873px;
+  left: 1.0415433674555743px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4813 {
+  top: 39.7833759049995px;
+  left: 35.36954872946751px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-tree022 {
+  top: 527px;
+  left: 975px;
+  width: 215.228271484375px;
+  height: 355.5946044921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group45 {
+  top: 0px;
+  left: 0px;
+  width: 215.228271484375px;
+  height: 355.5946044921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group40 {
+  top: 144.1046600341797px;
+  left: 91.58895874023438px;
+  width: 32.83995819091797px;
+  height: 211.489990234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle245 {
+  top: 57.08707046508789px;
+  left: -0.000032054154871730134px;
+  width: 33px;
+  height: 154px;
+  position: absolute;
+}
+.mac-book-air11-rectangle293 {
+  top: -0.000022237205484998412px;
+  left: 0.08779269456863403px;
+  width: 33px;
+  height: 154px;
+  position: absolute;
+}
+.mac-book-air11-polygon28 {
+  top: 116.97203063964844px;
+  left: 0px;
+  width: 215px;
+  height: 215px;
+  position: absolute;
+}
+.mac-book-air11-polygon27 {
+  top: 56.14655685424805px;
+  left: 16.46261978149414px;
+  width: 182px;
+  height: 182px;
+  position: absolute;
+}
+.mac-book-air11-vector33 {
+  top: 108.26541900634766px;
+  left: 68.38553619384766px;
+  width: 79px;
+  height: 15px;
+  position: absolute;
+}
+.mac-book-air11-vector34 {
+  top: 192.88568115234375px;
+  left: 55.44374465942383px;
+  width: 105px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-polygon25 {
+  top: 0.000011075040674768388px;
+  left: 36.2177619934082px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+}
+.mac-book-air11-tree0821 {
+  top: 667px;
+  left: 1155px;
+  width: 123.09477996826172px;
+  height: 156.6312255859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group921 {
+  top: 0px;
+  left: 0px;
+  width: 123.09477996826172px;
+  height: 123.88756561279297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group81 {
+  top: 34.507896423339844px;
+  left: 0.000010861613191082142px;
+  width: 69.66162109375px;
+  height: 55.984493255615234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4414 {
+  top: 0.5196699500083923px;
+  left: 9.20588493347168px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4514 {
+  top: 5.1417927742004395px;
+  left: 50.80443572998047px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4614 {
+  top: 12.87472152709961px;
+  left: 16.17306137084961px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4713 {
+  top: 45.54478073120117px;
+  left: 8.318588256835938px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4814 {
+  top: 49.961631774902344px;
+  left: 59.76036834716797px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group91 {
+  top: 63.46046447753906px;
+  left: 102.98222351074219px;
+  width: 69.66162109375px;
+  height: 55.984493255615234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4415 {
+  top: 7.726935537723875px;
+  left: -5.031280027853882px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4515 {
+  top: 41.511420156860254px;
+  left: -29.737811079213543px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4615 {
+  top: 7.623306866810481px;
+  left: -19.21491068428145px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4714 {
+  top: -15.444780817721949px;
+  left: -43.64617542160795px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4815 {
+  top: 26.98014978397123px;
+  left: -73.0722653543778px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group101 {
+  top: 58.7470703125px;
+  left: 123.09478759765625px;
+  width: 60.455745697021484px;
+  height: 55.984554290771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4416 {
+  top: -0.25862136433431715px;
+  left: -0.45089944574397123px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4516 {
+  top: 33.52586237320838px;
+  left: -25.157404017746785px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4616 {
+  top: -0.3622494214762355px;
+  left: -14.634529767084587px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4816 {
+  top: 18.994592000319358px;
+  left: -68.49185829291082px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-group111 {
+  top: 26.620187759399414px;
+  left: 111.86917114257812px;
+  width: 65.2049789428711px;
+  height: 53.5029411315918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4417 {
+  top: 7.5621477350674695px;
+  left: -6.166573991380119px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4517 {
+  top: 38.85569029610099px;
+  left: -27.835230510881274px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4617 {
+  top: 7.135620765765566px;
+  left: -17.985648622498502px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4715 {
+  top: -14.456690958956983px;
+  left: -40.85386363663565px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4817 {
+  top: 25.25408293407213px;
+  left: -68.39736295279272px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-group121 {
+  top: 15.736995697021484px;
+  left: 17.751089096069336px;
+  width: 65.20497131347656px;
+  height: 52.40284729003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4418 {
+  top: 1.7495307583594695px;
+  left: 8.451411043645749px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4518 {
+  top: 11.760165339563173px;
+  left: 46.3278117163984px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4618 {
+  top: 14.148113890185073px;
+  left: 13.199602856067258px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4716 {
+  top: 43.3127763153783px;
+  left: 1.4264677320272767px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4818 {
+  top: 54.48962879735291px;
+  left: 48.44422599250311px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-group191 {
+  top: 43.24379348754883px;
+  left: 103.70963287353516px;
+  width: 65.20497131347656px;
+  height: 52.40284729003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4419 {
+  top: 7.232611873019323px;
+  left: -4.709311178558437px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-radius: 215.20928955078125px;
+}
+.mac-book-air11-rectangle4519 {
+  top: 38.85566788216477px;
+  left: -27.835192917815448px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4619 {
+  top: 7.135572444807735px;
+  left: -17.985612111171577px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4717 {
+  top: -14.456711420268562px;
+  left: -40.85382551443581px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4819 {
+  top: 25.25405933389368px;
+  left: -68.39732742785918px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-subtract2 {
+  top: 56.04384231567383px;
+  left: 0.15227773785591125px;
+  width: 119px;
+  height: 61px;
+  position: absolute;
+}
+.mac-book-air11-group811 {
+  top: 76.85502624511719px;
+  left: 47.844505310058594px;
+  width: 29.574291229248047px;
+  height: 79.77619934082031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group552 {
+  top: 12.029226303100586px;
+  left: 0.000005270044766803039px;
+  width: 23.00041389465332px;
+  height: 67.74696350097656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle2482 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 68px;
+  position: absolute;
+}
+.mac-book-air11-rectangle2912 {
+  top: -0.000009570237125444692px;
+  left: 3.3832197189331055px;
+  width: 16px;
+  height: 36px;
+  position: absolute;
+}
+.mac-book-air11-vector2-stroke2 {
+  top: -0.000015781322872499004px;
+  left: 29.57428741455078px;
+  width: 18px;
+  height: 31px;
+  position: absolute;
+}
+.mac-book-air11-group821 {
+  top: 70.40249633789062px;
+  left: 20.963396072387695px;
+  width: 60.488407135009766px;
+  height: 48.61231994628906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4420 {
+  top: -4.519418395244088px;
+  left: 6.608840756565769px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 186.8699951171875px;
+}
+.mac-book-air11-rectangle4520 {
+  top: -23.376773145893026px;
+  left: 37.67673378276345px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4620 {
+  top: 0.2898224916381196px;
+  left: 17.947350673138317px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4718 {
+  top: 26.927395563240452px;
+  left: 29.85097372279529px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4820 {
+  top: 2.7141860677520526px;
+  left: 67.5821463987977px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.mac-book-air11-group951 {
+  top: 17.022876739501953px;
+  left: 23.126569747924805px;
+  width: 47.606754302978516px;
+  height: 38.259803771972656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4421 {
+  top: 1.2773463621175551px;
+  left: 6.170560615131535px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 157.1262969970703px;
+}
+.mac-book-air11-rectangle4521 {
+  top: 8.586209454059713px;
+  left: 33.824359164158295px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4621 {
+  top: 10.329657110018161px;
+  left: 9.637186151480819px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4719 {
+  top: 31.62307104990873px;
+  left: 1.041543367455688px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4821 {
+  top: 39.783375904999616px;
+  left: 35.369548729467624px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.mac-book-air11-tree0811 {
+  top: 559px;
+  left: 788px;
+  width: 235.6136016845703px;
+  height: 274.9552917480469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group791 {
+  top: 0px;
+  left: 0px;
+  width: 235.6136016845703px;
+  height: 238.83058166503906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group31 {
+  top: 75.99577331542969px;
+  left: -0.00001142234577855561px;
+  width: 126.91177368164062px;
+  height: 101.99434661865234px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4422 {
+  top: 0.9468472003936768px;
+  left: 16.771554946899414px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4522 {
+  top: 9.367490768432617px;
+  left: 92.55711364746094px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4622 {
+  top: 23.455705642700195px;
+  left: 29.46451759338379px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4720 {
+  top: 82.97501373291016px;
+  left: 15.15505599975586px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4822 {
+  top: 91.02178192138672px;
+  left: 108.87335205078125px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group41 {
+  top: 128.7425079345703px;
+  left: 187.61634826660156px;
+  width: 126.91187286376953px;
+  height: 101.99443817138672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4423 {
+  top: 14.07722345131208px;
+  left: -9.166149328934921px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4523 {
+  top: 75.6268433170037px;
+  left: -54.17737222712117px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4623 {
+  top: 13.888461797139144px;
+  left: -35.00636898253401px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4721 {
+  top: -28.13782736396638px;
+  left: -79.51599667899245px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4823 {
+  top: 49.153387191378215px;
+  left: -133.12533414070572px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group51 {
+  top: 92.74464416503906px;
+  left: 235.61361694335938px;
+  width: 126.91181182861328px;
+  height: 101.99444580078125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4424 {
+  top: 14.077137899250602px;
+  left: -9.166076139435518px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4524 {
+  top: 75.62679861379706px;
+  left: -54.17722015341076px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4624 {
+  top: 13.888376274733673px;
+  left: -35.006295741331314px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4722 {
+  top: -28.137791399010666px;
+  left: -79.51592055925869px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4824 {
+  top: 49.15330592697819px;
+  left: -133.12526114298475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-group61 {
+  top: 47.500370025634766px;
+  left: 209.91458129882812px;
+  width: 118.7925033569336px;
+  height: 95.46925354003906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4425 {
+  top: 13.176576869358655px;
+  left: -8.579687064074164px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4525 {
+  top: 70.78857707989414px;
+  left: -50.71126871367085px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4625 {
+  top: 12.99989645327878px;
+  left: -32.766804920318236px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4723 {
+  top: -26.3376904342922px;
+  left: -74.42895521656328px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4825 {
+  top: 46.00871439400612px;
+  left: -124.60857726428799px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-subtract3 {
+  top: 105.51029968261719px;
+  left: 0.09458741545677185px;
+  width: 220px;
+  height: 121px;
+  position: absolute;
+}
+.mac-book-air11-group721 {
+  top: 146.62905883789062px;
+  left: 83.54106903076172px;
+  width: 63.29438781738281px;
+  height: 128.3262176513672px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-group553 {
+  top: 19.349912643432617px;
+  left: 15.721856117248535px;
+  width: 36.997955322265625px;
+  height: 108.97624969482422px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle2483 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 109px;
+  position: absolute;
+}
+.mac-book-air11-rectangle2913 {
+  top: -0.0000019967492335126735px;
+  left: 5.442200183868408px;
+  width: 26px;
+  height: 59px;
+  position: absolute;
+}
+.mac-book-air11-vector1-stroke1 {
+  top: 15.999061584472656px;
+  left: -0.000011405174518586136px;
+  width: 29px;
+  height: 50px;
+  position: absolute;
+}
+.mac-book-air11-vector2-stroke3 {
+  top: -0.000026926527425530367px;
+  left: 63.294376373291016px;
+  width: 29px;
+  height: 50px;
+  position: absolute;
+}
+.mac-book-air11-group801 {
+  top: 117.68617248535156px;
+  left: 167.9973907470703px;
+  width: 90.94007873535156px;
+  height: 73.08521270751953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4426 {
+  top: 10.087192784558738px;
+  left: -6.5680291081765745px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  border-radius: 260.2682189941406px;
+}
+.mac-book-air11-rectangle4526 {
+  top: 54.19128621291259px;
+  left: -38.82124141543318px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4626 {
+  top: 9.951870783368804px;
+  left: -25.084128673211467px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4724 {
+  top: -20.162489663413226px;
+  left: -56.97804082579478px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4826 {
+  top: 35.221368901997266px;
+  left: -95.39245642744709px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.mac-book-air11-group71 {
+  top: 8.760560035705566px;
+  left: 27.450132369995117px;
+  width: 118.79242706298828px;
+  height: 95.46916961669922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.mac-book-air11-rectangle4427 {
+  top: 3.1873642600173753px;
+  left: 15.3971870599662px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 339.981201171875px;
+}
+.mac-book-air11-rectangle4527 {
+  top: 21.425133230135202px;
+  left: 84.40149258862334px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4627 {
+  top: 25.77549164356583px;
+  left: 24.047436066254477px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4725 {
+  top: 78.90862948728227px;
+  left: 2.598850609457486px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.mac-book-air11-rectangle4827 {
+  top: 99.2709473288362px;
+  left: 88.25715081768726px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
